@@ -5,7 +5,8 @@ otro cambio
 
 un cambio mas
 
-agrego cambio 
-a un 
-archivo 
+agrego cambio
+a un
+archivo
 generado
+agrego una linea de conflicto local
