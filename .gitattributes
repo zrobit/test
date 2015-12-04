@@ -1,2 +1,2 @@
 exe/hola.txt -diff
-bin/ binary
+bin/* binary
