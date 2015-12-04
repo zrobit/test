@@ -1,1 +1,1 @@
-exe/ export-ignore
+exe/* export-ignore
